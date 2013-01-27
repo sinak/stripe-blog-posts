@@ -2,11 +2,11 @@
 
 > “History has been made.  Ordering pizza from your computer.  It's the fulfillment of a hacker dream at least as old as computer networking.”
 
-> - Posted to the Computer-Underground Digest by Bill Higgins of the Fermi National Accelerator Laboratory.
+> Posted to the Computer-Underground Digest by Bill Higgins of the Fermi National Accelerator Laboratory.
 
-It's the Summer of 1994, and the World Wide Web is barely 3 years old. The first lines of code for Internet Explorer 1.0 are being written by Microsoft engineers in Seattle. Nearby, Jeff Bezos has recently incorporated Cadabra, the company that would later launch Amazon.com. Pierre Omidyar is still a year away from registering eBay.com.
+It's the Summer of 1994, and the World Wide Web is barely 3 years old. The first lines of code for Internet Explorer 1.0 are being written by Microsoft engineers in Seattle. Nearby, Jeff Bezos has recently incorporated Cadabra, the company that will later launch Amazon.com. Pierre Omidyar is still a year away from registering eBay.com.
 
-Meanwhile, 1,700 miles away in Wichita, Kansas, an international food chain founded in 1958 by brothers Dan and Frank Carney is preparing to launch one of the first eCommerce sites in Internet history. On Monday, August 22nd 1994, Pizza Hut and the Santa Cruz Operation issued a joint press release announcing the launch of PizzaNet, “a pilot program that enables computer users, for the first time, to electronically order pizza delivery from their local Pizza Hut restaurant via the worldwide Internet.”
+Meanwhile, 1,700 miles away in Wichita, Kansas, an international food chain founded in 1958 is preparing to launch one of the first eCommerce sites in Internet history. On Monday, August 22nd 1994, Pizza Hut and the Santa Cruz Operation issued a joint press release announcing the launch of PizzaNet, “a pilot program that enables computer users, for the first time, to electronically order pizza delivery from their local Pizza Hut restaurant via the worldwide Internet.”
 
 ##Unusual innovators
 It was a pivotal moment: for the first time a major corporation (Pizza Hut was owned by PepsiCo at the time) chose to use the web to sell directly to their customers. 
