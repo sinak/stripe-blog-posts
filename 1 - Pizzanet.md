@@ -4,9 +4,9 @@ It's the Summer of 1994, and the World Wide Web is barely 3 years old. The first
 
 Meanwhile, 1,700 miles away in Wichita, Kansas, an international food chain founded in 1958 is preparing to launch one of the first eCommerce sites in Internet history. On Monday, August 22nd 1994, Pizza Hut and the Santa Cruz Operation issued a joint press release announcing the launch of PizzaNet, “a pilot program that enables computer users, for the first time, to electronically order pizza delivery from their local Pizza Hut restaurant via the worldwide Internet.”
 
-> *“History has been made.  Ordering pizza from your computer.  It's the fulfillment of a hacker dream at least as old as computer networking.”*
+> “History has been made.  Ordering pizza from your computer.  It's the fulfillment of a hacker dream at least as old as computer networking.”
 
-> Posted to the Computer-Underground Digest by Bill Higgins of the Fermi National Accelerator Laboratory.
+> *Posted to the Computer-Underground Digest by Bill Higgins of the Fermi National Accelerator Laboratory.*
 
 ##Unusual innovators
 It was a pivotal moment: for the first time a major corporation (Pizza Hut was owned by PepsiCo at the time) chose to use the web to sell directly to their customers. 
