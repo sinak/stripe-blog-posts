@@ -19,7 +19,7 @@ That system was called PHOEBE - "The Pizza Hut Order Entry Back End." SCO employ
 The first pizza was ordered and delivered to Phil Neuman of SCO on Friday, August 12th, 1994. Ten days later, SCO and Pizza Hut went public, and the site was live on PizzaHut.com. It looked like this:
  
  
-![PizzaNet](https://raw.github.com/sinak/stripe-blog-posts/master/1%20-%20images/ishot-193.jpg?login=sinak&token=d0a7cf789989b8fdf240e06a52227fee)
+<img src="https://raw.github.com/sinak/stripe-blog-posts/master/1%20-%20images/ishot-193.jpg?login=sinak&token=d0a7cf789989b8fdf240e06a52227fee" style="float:right") />
 
 Rob Doughty, the author of the original launch press release, and VP of Communications at Pizza Hut at the time of the launch, gave me a taste of Pizza Hut's side of the story: “We’d spent months in meetings trying to figure out this Internet thing,” he told me, “some bright spark realized that by taking orders online we could build a great customer database. We’d have their address, phone number, email address, and then marry that with pizza preferences.” All told, estimated that they saved $1.17 per order ($0.17 for labor, $1.00 for not taking coupons via that mechanism) per transaction.
 
