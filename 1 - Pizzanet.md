@@ -43,9 +43,11 @@ NetMarket was born by Swathmore and LSE graduates working out of a house in New 
 
 Dan Kohn claims that they had the earliest shopping-cart system on the web, and he dug out some never-since-seen screenhots of the original site for us to share here. It's amazing to see how little the shopping cart paradigm has changed since then:
 
-
 <p align="center"><img src="https://github.com/sinak/stripe-blog-posts/raw/master/1%20-%20images/netmarket-2.gif" /></p>
 <p align="center"><img src="https://github.com/sinak/stripe-blog-posts/raw/master/1%20-%20images/netmarket-1.gif" /></p>
 
+Dan Kohn is now working on a new startup [ShopMyLabel](http://shopmylabel.com), and when I called him to discuss NetMarket happened to have the new [Stripe checkout](https://stripe.com/blog/stripe-checkout) already open in a browser tab. He told me they're planning on using it for the next revision of ShopMyLabel. To have one of the inventors of eCommerce and the first shopping cart considering using our product is, well, wonderful.
 
-About 6 months later, Netscape publicly released the first version of the SSL protocol, which despite having “a number of security flaws,” paved the way for online commerce as we know it.
+###A developing story
+
+Pioneers like NetMarket, SCO, and Pizza Hut are in our recent past - it's not yet two decades since the first eCommerce transactions were being made. The barriers to selling online have shrunk considerably, but these are still only the early days. Twenty years from now, it's likely that Stripe Checkout will look as dated as the original NetMarket and PizzaNet. We're excited to be part of that development.
