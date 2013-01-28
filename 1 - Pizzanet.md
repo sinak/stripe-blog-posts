@@ -24,7 +24,7 @@ Rob Doughty, the author of the original launch press release, and VP of Communic
 
 
 ##The Designer Pizza
-The launch was heralded by some great headlines: "'CYBERCHOW'-TO-GO ROLLS ONTO THE INFOBAHN" (Albany Times Union), "PIE A LA MODEM" (The Washington Post), "HACKERS PUNCH UP A PIZZA".
+The launch was heralded by some great headlines: "'CYBERCHOW'-TO-GO ROLLS ONTO THE INFOBAHN" (Albany Times Union), "PIE A LA MODEM" (The Washington Post), "HACKERS PUNCH UP A PIZZA" (Post Tribune).
 
 The LA Times' article, entitled [On-Line Pizza Is Clever but Only Half-Baked](http://articles.latimes.com/1994-08-25/business/fi-31168_1_pizza-hut), is a fun artefact fun to read. The author - Michael Schrage, at the time a research associate at MIT – doesn’t think much of of the idea though:
 
