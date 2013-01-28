@@ -1,4 +1,4 @@
-#PizzaNet: "The Fulfillment of a Hacker Dream"
+#PizzaNet: The Fulfillment of a Hacker Dream
 
 It's the Summer of 1994, and the World Wide Web is barely 3 years old. The first lines of code for Internet Explorer 1.0 are being written by Microsoft engineers in Seattle and nearby, Jeff Bezos has recently incorporated Cadabra, the company that will later launch Amazon.com. Pierre Omidyar is still a year away from registering eBay.com.
 
@@ -12,13 +12,15 @@ As Bill Higgins of Fermilab wrote to the Computer-Under Digest:
 ##Unusual innovators
 It was a pivotal moment: for the first time a major corporation (Pizza Hut was owned by PepsiCo at the time) chose to use the web to sell directly to their customers. 
 
-The project had been conceived by Jon Payne (of Pizza Hut) and Doug Michels of the Santa Cruz Operation. SCO was arguably the first commercial UNIX software company, and the makers of SCO Unix, which was already being used to run Pizza Hut's ordering systems. 
+The project was conceived by Jon Payne (of Pizza Hut) and Doug Michels of the Santa Cruz Operation. SCO was arguably the first commercial UNIX software company and the makers of SCO Unix, which was already being used to run Pizza Hut's ordering systems. 
 
-That system was called PHOEBE - "The PIzza Hut Order Entry Back End." SCO employees Phil Neuman and Steph Marr built an HTML form flow for ordering, but for truly automated ordering they needed to integrate the website with Pizza Hut's backend system. They used the "Alternet"
+That system was called PHOEBE - "The Pizza Hut Order Entry Back End." SCO employees Phil Neuman and Steph Marr took on the project of building an HTML form flow for ordering, but for truly automated ordering they needed to integrate the website with Pizza Hut's backend system. Steph Marr left Santa Cruz for Wichita: "I remember being stuck in a Tornado bunker in Wichita ... arguing with UUnet about IP addresses, domain registrations, and routing", he told me.  
 
+The first pizza was ordered and delivered to Phil Neuman of SCO on Friday, August 12th, 1994. Ten days later, SCO and Pizza Hut went public, and the site was live on PizzaHut.com. It looked like this:
 
+![PizzaNet](1%20-%20images/ishot-193.jpg)
 
-Trying to figure out who was involved in a pilot project at a subsidiary of PepsiCo almost 20 years ago wasn’t easy. But after a few phone calls I found myself on the phone Rob Doughty, the author of the original press release, and VP of Communications at Pizza Hut at the time of the launch. “We’d spent months in meetings trying to figure out this Internet thing,” he told me, “some bright spark realized that by taking orders online we could build a great customer database. We’d have their address, phone number, email address, and then marry that with pizza preferences.”
+Rob Doughty, the author of the original launch press release, and VP of Communications at Pizza Hut at the time of the launch, gave me a taste of Pizza Hut's side of the story: “We’d spent months in meetings trying to figure out this Internet thing,” he told me, “some bright spark realized that by taking orders online we could build a great customer database. We’d have their address, phone number, email address, and then marry that with pizza preferences.” All told, estimated that they saved $1.17 per order ($0.17 for labor, $1.00 for not taking coupons via that mechanism) per transaction.
 
 
 ##The Designer Pizza
