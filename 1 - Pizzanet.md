@@ -1,12 +1,10 @@
 #PizzaNet: Fulfillment of a Hacker Dream
 
-It's the Summer of 1994, and the World Wide Web is barely 3 years old. During the optimisim of a Seattle summer, Microsoft engineers begin writing the first lines of code for Internet Explorer 1.0. Jeffrey Preston Bezos has just finished his cross-country drive in an '88 Chevy Blazer, typing the business plan for Amazon.com while his wife McKenzie. Pierre Omidyar is still a year away from registering eBay.com.
+It's the August of 1994, and the World Wide Web is barely 3 years old. The summer sun over Seattle nurtures a particular strain of optimism and ambition: Microsoft engineers begin writing the first lines of code for Internet Explorer 1.0. Jeff Bezos arrivies in the city, fresh from his cross-country drive to Seattle in an '88 Chevy Blazer, during which he the business plan for Amazon.com. Further south, in Silicon Valeey, Pierre Omidyar is still a year away from registering eBay.com.
 
-Meanwhile, 1,700 miles away in Wichita, Kansas, an international food chain founded in 1958 is preparing to launch one of the first eCommerce sites in Internet history. On Monday, August 22nd 1994, Pizza Hut and the Santa Cruz Operation issued a joint [press release](http://www.interesting-people.org/archives/interesting-people/199408/msg00057.html) announcing the launch of PizzaNet, “a pilot program that enables computer users, for the first time, to electronically order pizza delivery from their local Pizza Hut restaurant via the worldwide Internet.”
+1,700 miles away in Wichita, Kansas, tornado season has just ended, and a very different kind of company, founded in 1958 by Dan and Frank Carney, is putting the final touches on the launch one of the first eCommerce sites in Internet history. On Monday, August 22nd 1994, Pizza Hut and the Santa Cruz Operation issued a joint [press release](http://www.interesting-people.org/archives/interesting-people/199408/msg00057.html) announcing the launch of PizzaNet, “a pilot program that enables computer users, for the first time, to electronically order pizza delivery from their local Pizza Hut restaurant via the worldwide Internet.”
 
-As Bill Higgins of Fermilab [wrote](http://cu-digest.org/CUDS6/cud6.83) to the Computer Underground Digest:
-
-> “History has been made.  Ordering pizza from your computer.  It's the fulfillment of a hacker dream at least as old as computer networking.”
+As Bill Higgins of Fermilab [wrote](http://cu-digest.org/CUDS6/cud6.83) to the Computer Underground Digest, “History has been made.  Ordering pizza from your computer.  It's the fulfillment of a hacker dream at least as old as computer networking.”
 
 
 ###Unusual innovators
