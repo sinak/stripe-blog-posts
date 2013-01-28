@@ -20,7 +20,7 @@ The first pizza was ordered and delivered to Phil Neuman of SCO on Friday, Augus
 
 <p align="center"><img src="https://github.com/sinak/stripe-blog-posts/raw/master/1%20-%20images/pizza1.jpg" /></p>
 
-Rob Doughty, the author of the original launch press release, and VP of Communications at Pizza Hut at the time of the launch, gave me a taste of Pizza Hut's side of the story: “We’d spent months in meetings trying to figure out this Internet thing,” he told me, “some bright spark realized that by taking orders online we could build a great customer database. We’d have their address, phone number, email address, and then marry that with pizza preferences.” All told, Pizza Hut estimated that they saved $1.17 per order ($0.17 for labor, $1.00 for not taking coupons via that mechanism) per transaction.
+[Rob Doughty](http://robdoughtycommunications.com/robdoughtycommunications.com/Welcome.html), the author of the original launch press release, and VP of Communications at Pizza Hut at the time of the launch, gave me a taste of Pizza Hut's side of the story: “We’d spent months in meetings trying to figure out this Internet thing,” he told me, “some bright spark realized that by taking orders online we could build a great customer database. We’d have their address, phone number, email address, and then marry that with pizza preferences.” All told, Pizza Hut estimated that they saved $1.17 per order ($0.17 for labor, $1.00 for not taking coupons via that mechanism) per transaction.
 
 
 ###The Designer Pizza
