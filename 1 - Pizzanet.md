@@ -26,7 +26,7 @@ The first pizza was ordered and delivered to Phil Neuman of SCO on Friday, Augus
 ###The Designer Pizza
 The launch was heralded by some great headlines: "'CYBERCHOW'-TO-GO ROLLS ONTO THE INFOBAHN" (Albany Times Union), "PIE A LA MODEM" (The Washington Post), "HACKERS PUNCH UP A PIZZA" (Post Tribune).
 
-The LA Times' article, entitled [On-Line Pizza Is Clever but Only Half-Baked](http://articles.latimes.com/1994-08-25/business/fi-31168_1_pizza-hut), is a fun artefact fun to read. The author - Michael Schrage, at the time a research associate at MIT – doesn’t think much of of the idea though:
+The LA Times' article, entitled [On-Line Pizza Is Clever but Only Half-Baked](http://articles.latimes.com/1994-08-25/business/fi-31168_1_pizza-hut), is a fun artefact fun to read. The author - Michael Schrage, at the time a research associate at MIT – didn’t think much of the idea:
 
 > Still, as computationally clever as on-line ordering may be, it misses the point of what this medium can do. Fundamentally, there's not much difference between ordering a pizza over the phone and ordering one on-line. The transaction is basically a commodity. The trick is to figure out new ways to create value for the customer.
 
@@ -35,19 +35,19 @@ The LA Times' article, entitled [On-Line Pizza Is Clever but Only Half-Baked](ht
 In fact, Domino's, Pizza Hut's main competitor, was working on a graphical UI for pizza ordering with a company called EON Corp. As far as I was able to tell, that effort never saw the light of day.
 
 ###11 days earlier: NetMarket
-Pizza Hut and SCO were actually just a few days off from making Internet history. Eleven days before the PR blast, and 1 day before the first Pizza was delivered, a company called NetMarket made the first commercial eCommerce transaction. At around noon of August 11th 1994, Phil Brandenberger of Philadelphia ordered the Sting album “Ten Summoner’s Tales” from NetMarket.com for $12.48, marking the first eCommerce transaction in Internet history. 
+Pizza Hut and SCO were just a few days off from making Internet history. Eleven days before the PR blast, and 1 day before the first Pizza was delivered, a company called NetMarket made the first commercial eCommerce transaction. At around noon of August 11th 1994, Phil Brandenberger of Philadelphia ordered the Sting album “Ten Summoner’s Tales” from NetMarket.com for $12.48, marking the first eCommerce transaction in Internet history. 
 
 That transaction required some determination. NetMarket, founded by Daniel Kohn and Guy Fernald, had ported a version of ViaCrypt PGP for their servers, and published their public Key. To make a purchase, Phil Brandenberger had to install PGP on his local Unix machine (Windows and Mac were not supported), compile X Mosaic using custom scripts that enabled PGP encryption, and then send his own public key to NetMarket.
 
-NetMarket was born by Swathmore and LSE graduates working out of a house in New Hampshire, with the typical student-entrepreneur setup: bedrooms upstairs, and the broadband line and office downstairs. Dan Kohn remembers the time fondly, "Living in that house in New Hampshire is one of my fondest memories. BUt it's amazing how hard things were then, how complicated the tools were. We were leveraging UNIX and HTTPD and other early open source software. But when you look at what's available today, and how much easier it is, it's mind-boggling to me."
+NetMarket was founded by Swathmore and LSE graduates working out of a house in New Hampshire, with the typical student-entrepreneur setup: bedrooms upstairs, and the broadband line and office downstairs. Dan Kohn remembers the time fondly, "Living in that house in New Hampshire is one of my fondest memories. But it's amazing how hard things were then, how complicated the tools were. We were leveraging UNIX and HTTPD and other early open source software. But when you look at what's available today, and how much easier it is, it's mind-boggling to me."
 
-Dan Kohn claims that they had the earliest shopping-cart system on the web, and he dug out some never-since-seen screenhots of the original site for us to share here. It's amazing to see how little the shopping cart paradigm has changed since then:
+Dan Kohn claims that they had the earliest shopping-cart system on the web, and he dug out some never-since-seen screenhots of the original site for us to share. It's amazing to see how little the shopping cart paradigm has changed since then:
 
 <p align="center"><img src="https://github.com/sinak/stripe-blog-posts/raw/master/1%20-%20images/netmarket-2.gif" /></p>
 <p align="center"><img src="https://github.com/sinak/stripe-blog-posts/raw/master/1%20-%20images/netmarket-1.gif" /></p>
 
-Dan Kohn is now working on a new startup [ShopMyLabel](http://shopmylabel.com), and when I called him to discuss NetMarket happened to have the new [Stripe checkout](https://stripe.com/blog/stripe-checkout) already open in a browser tab. He told me they're planning on using it for the next revision of ShopMyLabel. To have one of the inventors of eCommerce and the first shopping cart considering using our product is, well, wonderful.
+Dan Kohn is now working on a new startup [ShopMyLabel](http://shopmylabel.com), and when I called him to discuss NetMarket he happened to have the new [Stripe checkout](https://stripe.com/blog/stripe-checkout) open in a browser tab. He told me they're planning on using it for the next revision of ShopMyLabel. To have one of the inventors of eCommerce and the first shopping cart considering using our product is, well, wonderful.
 
 ###A developing story
 
-Pioneers like NetMarket, SCO, and Pizza Hut are in our recent past - it's not yet two decades since the first eCommerce transactions were being made. The barriers to selling online have shrunk considerably, but these are still only the early days. Twenty years from now, it's likely that Stripe Checkout will look as dated as the original NetMarket and PizzaNet. We're excited to be part of that development.
+Pioneers like NetMarket, SCO, and Pizza Hut are in our recent past - it's less than two decades since the first eCommerce transactions were being made. The barriers to selling online have shrunk considerably, but these are still only the early days. Twenty years from now, it's likely that Stripe Checkout will look as dated as the original NetMarket and PizzaNet. We're excited to contribute to that narrative, and eager to see what the next 20 years of online commerce have in store.
