@@ -2,7 +2,7 @@
 
 It's the Summer of 1994, and the World Wide Web is barely 3 years old. The first lines of code for Internet Explorer 1.0 are being written by Microsoft engineers in Seattle and nearby, Jeff Bezos has recently incorporated Cadabra, the company that will later launch Amazon.com. Pierre Omidyar is still a year away from registering eBay.com.
 
-Meanwhile, 1,700 miles away in Wichita, Kansas, an international food chain founded in 1958 is preparing to launch one of the first eCommerce sites in Internet history. On Monday, August 22nd 1994, Pizza Hut and the Santa Cruz Operation issued a joint press release announcing the launch of PizzaNet, “a pilot program that enables computer users, for the first time, to electronically order pizza delivery from their local Pizza Hut restaurant via the worldwide Internet.”
+Meanwhile, 1,700 miles away in Wichita, Kansas, an international food chain founded in 1958 is preparing to launch one of the first eCommerce sites in Internet history. On Monday, August 22nd 1994, Pizza Hut and the Santa Cruz Operation issued a joint [press release](http://www.interesting-people.org/archives/interesting-people/199408/msg00057.html) announcing the launch of PizzaNet, “a pilot program that enables computer users, for the first time, to electronically order pizza delivery from their local Pizza Hut restaurant via the worldwide Internet.”
 
 As Bill Higgins of Fermilab wrote to the Computer-Under Digest:
 
