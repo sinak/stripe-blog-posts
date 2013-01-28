@@ -9,7 +9,7 @@ As Bill Higgins of Fermilab wrote to the Computer-Under Digest:
 > “History has been made.  Ordering pizza from your computer.  It's the fulfillment of a hacker dream at least as old as computer networking.”
 
 
-##Unusual innovators
+###Unusual innovators
 It was a pivotal moment. For the first time a major corporation (Pizza Hut was owned by PepsiCo at the time) chose to use the web to sell directly to their customers. 
 
 The project was conceived by Jon Payne (of Pizza Hut) and Doug Michels of the Santa Cruz Operation. SCO was arguably the first commercial UNIX software company and the makers of SCO Unix, which was used at the time to run Pizza Hut's ordering systems. 
@@ -23,7 +23,7 @@ The first pizza was ordered and delivered to Phil Neuman of SCO on Friday, Augus
 Rob Doughty, the author of the original launch press release, and VP of Communications at Pizza Hut at the time of the launch, gave me a taste of Pizza Hut's side of the story: “We’d spent months in meetings trying to figure out this Internet thing,” he told me, “some bright spark realized that by taking orders online we could build a great customer database. We’d have their address, phone number, email address, and then marry that with pizza preferences.” All told, estimated that they saved $1.17 per order ($0.17 for labor, $1.00 for not taking coupons via that mechanism) per transaction.
 
 
-##The Designer Pizza
+###The Designer Pizza
 The launch was heralded by some great headlines: "'CYBERCHOW'-TO-GO ROLLS ONTO THE INFOBAHN" (Albany Times Union), "PIE A LA MODEM" (The Washington Post), "HACKERS PUNCH UP A PIZZA" (Post Tribune).
 
 The LA Times' article, entitled [On-Line Pizza Is Clever but Only Half-Baked](http://articles.latimes.com/1994-08-25/business/fi-31168_1_pizza-hut), is a fun artefact fun to read. The author - Michael Schrage, at the time a research associate at MIT – doesn’t think much of of the idea though:
@@ -34,7 +34,7 @@ The LA Times' article, entitled [On-Line Pizza Is Clever but Only Half-Baked](ht
 
 In fact, Domino's, Pizza Hut's main competitor, was working on a graphical UI for pizza ordering with a company called EON Corp. As far as I was able to tell, that effort never saw the light of day.
 
-##11 days earlier: NetMarket
+###11 days earlier: NetMarket
 Pizza Hut and SCO were actually just a few days off from making Internet history. Eleven days before, at around noon of August 11th 1994, Phil Brandenberger  of Philadelphia ordered the Sting album “Ten Summoner’s Tales” from NetMarket.com for $12.48, marking the first eCommerce transaction in Internet history. 
 
 That transaction required some determination. NetMarket, founded by Daniel Kohn and Guy Fernald, had ported a version of ViaCrypt PGP for their servers, and published their public Key. To make a purchase, Phil Brandenberger had to install PGP on his local Unix machine (Windows and Mac were not supported), compile X Mosaic using customized scripts to enable PGP encryption, and then send his own public key to NetMarket.
