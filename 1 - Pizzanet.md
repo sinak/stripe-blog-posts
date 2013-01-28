@@ -14,7 +14,7 @@ It was a pivotal moment. For the first time a major corporation (Pizza Hut was o
 
 The project was conceived by Jon Payne (of Pizza Hut) and Doug Michels of the Santa Cruz Operation. SCO was arguably the first commercial UNIX software company and the makers of SCO Unix, which was used at the time to run Pizza Hut's ordering systems. 
 
-That system was called PHOEBE - "The Pizza Hut Order Entry Back End." SCO employees Phil Neuman and Steph Marr took on the project of building an HTML form flow for ordering, but for truly automated ordering they needed to integrate the website with Pizza Hut's backend system. Steph Marr left Santa Cruz for Wichita: "I remember being stuck in a Tornado bunker in Wichita ... arguing with UUnet about IP addresses, domain registrations, and routing", he told me.  
+That system was called PHOEBE - "The Pizza Hut Order Entry Back End." SCO employees Phil Neuman and Steph Marr were assigned the task of building an HTML form flow for ordering, but for truly automated ordering they needed to integrate the website with Pizza Hut's backend system. Steph Marr left Santa Cruz for Pizza Hut's Wichita headquarters: "I remember being stuck in a Tornado bunker in Wichita ... arguing with UUnet about IP addresses, domain registrations, and routing", he told me.  
 
 The first pizza was ordered and delivered to Phil Neuman of SCO on Friday, August 12th, 1994. Ten days later, SCO and Pizza Hut went public, and the site was live on PizzaHut.com.
 
