@@ -12,7 +12,7 @@ As Bill Higgins of Fermilab wrote to the Computer-Under Digest:
 ##Unusual innovators
 It was a pivotal moment. For the first time a major corporation (Pizza Hut was owned by PepsiCo at the time) chose to use the web to sell directly to their customers. 
 
-The project was conceived by Jon Payne (of Pizza Hut) and Doug Michels of the Santa Cruz Operation. SCO was arguably the first commercial UNIX software company and the makers of SCO Unix, which was already being used to run Pizza Hut's ordering systems. 
+The project was conceived by Jon Payne (of Pizza Hut) and Doug Michels of the Santa Cruz Operation. SCO was arguably the first commercial UNIX software company and the makers of SCO Unix, which was used at the time to run Pizza Hut's ordering systems. 
 
 That system was called PHOEBE - "The Pizza Hut Order Entry Back End." SCO employees Phil Neuman and Steph Marr took on the project of building an HTML form flow for ordering, but for truly automated ordering they needed to integrate the website with Pizza Hut's backend system. Steph Marr left Santa Cruz for Wichita: "I remember being stuck in a Tornado bunker in Wichita ... arguing with UUnet about IP addresses, domain registrations, and routing", he told me.  
 
