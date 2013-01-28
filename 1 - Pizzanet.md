@@ -24,12 +24,10 @@ Rob Doughty, the author of the original launch press release, and VP of Communic
 
 
 ##The Designer Pizza
-The media of the time loved the story, and the launch gained Pizza Hut and SCO coverage in the New York Times, the Wall Street Journal, and on CNN and CBS.
+The launch was heralded by some great headlines: "'CYBERCHOW'-TO-GO ROLLS ONTO THE INFOBAHN" (Albany Times Union), "PIE A LA MODEM" (The Washington Post), "HACKERS PUNCH UP A PIZZA".
 
-The LA Times picked up on the story, and ran an article entitled “On-Line Pizza Is Clever but Only Half-Baked.” Their take on the story is fun to read:
-> Why phone or fax your order for a 14-inch extra-cheese, half-mushroom, half-pepperoni with onion-- hold the oregano! --pizza when you can order it virtually via the Internet? It's the Geek Chic way to nosh.
+The LA Times' article, entitled [On-Line Pizza Is Clever but Only Half-Baked](http://articles.latimes.com/1994-08-25/business/fi-31168_1_pizza-hut), is a fun artefact fun to read. The author - Michael Schrage, at the time a research associate at MIT – doesn’t think much of of the idea though:
 
-The author - Michael Schrage, at the time a research associate at MIT – doesn’t think much of of the idea though:
 > Still, as computationally clever as on-line ordering may be, it misses the point of what this medium can do. Fundamentally, there's not much difference between ordering a pizza over the phone and ordering one on-line. The transaction is basically a commodity. The trick is to figure out new ways to create value for the customer.
 
 > Instead of simply letting people order a pizza, why not let them design it as well? Instead of showing an ordinary menu with a list of toppings, show a picture of a pizza with the toppings clustered on the side. Let teen-agers and college students build their own pizzas on-screen. Present a palette of toppings and let people place their mushrooms and green peppers and pepperoni anywhere on the pizza they want. The real pizza is customized accordingly. In other words, computer-aided pizza engineering.
