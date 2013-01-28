@@ -1,4 +1,4 @@
-#PizzaNet: The Fulfillment of a Hacker Dream
+#PizzaNet and tulfillment of a Hacker Dream
 
 It's the Summer of 1994, and the World Wide Web is barely 3 years old. The first lines of code for Internet Explorer 1.0 are being written by Microsoft engineers in Seattle and nearby, Jeff Bezos has recently incorporated Cadabra, the company that will later launch Amazon.com. Pierre Omidyar is still a year away from registering eBay.com.
 
