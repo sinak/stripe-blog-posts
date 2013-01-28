@@ -32,7 +32,7 @@ The LA Times' article, entitled [On-Line Pizza Is Clever but Only Half-Baked](ht
 
 > Instead of simply letting people order a pizza, why not let them design it as well? Instead of showing an ordinary menu with a list of toppings, show a picture of a pizza with the toppings clustered on the side. Let teen-agers and college students build their own pizzas on-screen. Present a palette of toppings and let people place their mushrooms and green peppers and pepperoni anywhere on the pizza they want. The real pizza is customized accordingly. In other words, computer-aided pizza engineering.
 
-Undoubtedly Schrage was off the mark in predicting that the real market was in pizza design software. But in the same article suggests that customized T-Shirts might be a better market for the suggestion … which was far more accurate. 
+In fact, Domino's, Pizza Hut's main competitor, was working on a graphical UI for pizza ordering with a company called EON Corp. As far as I was able to tell, that effort never saw the light of day.
 
 ##11 days earlier: NetMarket
 Pizza Hut and SCO were actually just a few days off from making Internet history. Eleven days before, at around noon of August 11th 1994, Phil Brandenberger  of Philadelphia ordered the Sting album “Ten Summoner’s Tales” from NetMarket.com for $12.48, marking the first eCommerce transaction in Internet history. 
