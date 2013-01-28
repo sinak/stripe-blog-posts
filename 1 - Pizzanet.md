@@ -44,8 +44,8 @@ NetMarket was born by Swathmore and LSE graduates working out of a house in New 
 Dan Kohn claims that they had the earliest shopping-cart system on the web, and he dug out some never-since-seen screenhots of the original site for us to share here. It's amazing to see how little the shopping cart paradigm has changed since then:
 
 
-<p align="center"><img src="https://github.com/sinak/stripe-blog-posts/raw/master/1%20-%20images/netmarket-1.gif" /></p>
 <p align="center"><img src="https://github.com/sinak/stripe-blog-posts/raw/master/1%20-%20images/netmarket-2.gif" /></p>
+<p align="center"><img src="https://github.com/sinak/stripe-blog-posts/raw/master/1%20-%20images/netmarket-1.gif" /></p>
 
 
 About 6 months later, Netscape publicly released the first version of the SSL protocol, which despite having “a number of security flaws,” paved the way for online commerce as we know it.
