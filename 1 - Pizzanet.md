@@ -1,10 +1,12 @@
 #PizzaNet: Fulfillment of a Hacker Dream
 
-It's the August of 1994, and the World Wide Web is barely 3 years old. The summer sun over Seattle nurtures a particular strain of optimism and ambition: Microsoft engineers begin writing the first lines of code for Internet Explorer 1.0. Jeff Bezos arrivies in the city, fresh from his cross-country drive to Seattle in an '88 Chevy Blazer, during which he the business plan for Amazon.com. Further south, in Silicon Valeey, Pierre Omidyar is still a year away from registering eBay.com.
+It's August of 1994, and the World Wide Web is barely 3 years old. The summer sun over Seattle nurtures a particular strain of optimism and ambition: Microsoft engineers begin writing the first lines of code for Internet Explorer 1.0. Jeff Bezos arrivies in the city, fresh from his cross-country drive to Seattle in an '88 Chevy Blazer, during which he wrote the Amazon.com business plan. Further south, in Silicon Valeey, Pierre Omidyar is still a year away from registering eBay.com.
 
-1,700 miles away in Wichita, Kansas, tornado season has just ended, and a very different kind of company is putting the final touches on the launch one of the first eCommerce sites in Internet history. On Monday, August 22nd 1994, Pizza Hut and the Santa Cruz Operation issued a joint [press release](http://www.interesting-people.org/archives/interesting-people/199408/msg00057.html) announcing the launch of PizzaNet, “a pilot program that enables computer users, for the first time, to electronically order pizza delivery from their local Pizza Hut restaurant via the worldwide Internet.”
+1,700 miles away in Wichita, Kansas, Steph Marr is in a tornado bunker, arguing with UUNet, one of the early tier 1 ISPs, about IP addresses, domain registrations, and routing, preparing for the launch of one the very first eCommerce sites on the internet. 
 
-As Bill Higgins of Fermilab [wrote](http://cu-digest.org/CUDS6/cud6.83) to the Computer Underground Digest, “History has been made.  Ordering pizza from your computer.  It's the fulfillment of a hacker dream at least as old as computer networking.”
+On Monday, August 22nd 1994, Pizza Hut and the Santa Cruz Operation issued a joint [press release](http://www.interesting-people.org/archives/interesting-people/199408/msg00057.html) announcing the launch of PizzaNet, “a pilot program that enables computer users, for the first time, to electronically order pizza delivery from their local Pizza Hut restaurant via the worldwide Internet.”
+
+As Bill Higgins of Fermilab [wrote](http://cu-digest.org/CUDS6/cud6.83) to the Computer Underground Digest, “History has been made.  Ordering pizza from your computer.  It's the fulfillment of a hacker dream at least as old as computer networking.” 
 
 
 ###Dough for cash
@@ -12,7 +14,7 @@ It was a pivotal moment. For the first time a major corporation (Pizza Hut was o
 
 The project was conceived by Jon Payne (of Pizza Hut) and Doug Michels of the Santa Cruz Operation. SCO was arguably the first commercial UNIX software company and the makers of SCO Unix, which was used at the time to run Pizza Hut's ordering systems. 
 
-That system was called PHOEBE - "The Pizza Hut Order Entry Back End." SCO employees Phil Neuman and Steph Marr were assigned the task of building an HTML form flow for ordering, but for truly automated ordering they needed to integrate the website with Pizza Hut's backend system. Steph Marr left Santa Cruz for Pizza Hut's Wichita headquarters: "I remember being stuck in a Tornado bunker in Wichita ... arguing with UUnet about IP addresses, domain registrations, and routing", he told me.  
+That system was called PHOEBE - "The Pizza Hut Order Entry Back End." SCO employees Phil Neuman and Steph Marr were assigned the task of building an HTML form flow for ordering, but for truly automated ordering they needed to integrate the website with Pizza Hut's backend system. Steph Marr left Santa Cruz for Pizza Hut's Wichita headquarters: "I remember being stuck in a tornado bunker in Wichita ... arguing with UUnet about IP addresses, domain registrations, and routing", he told me.  
 
 The first pizza was ordered and delivered to Phil Neuman of SCO on Friday, August 12th, 1994. Ten days later, SCO and Pizza Hut went public, and the site was live on PizzaHut.com.
 
