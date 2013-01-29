@@ -2,12 +2,12 @@
 
 It's the August of 1994, and the World Wide Web is barely 3 years old. The summer sun over Seattle nurtures a particular strain of optimism and ambition: Microsoft engineers begin writing the first lines of code for Internet Explorer 1.0. Jeff Bezos arrivies in the city, fresh from his cross-country drive to Seattle in an '88 Chevy Blazer, during which he the business plan for Amazon.com. Further south, in Silicon Valeey, Pierre Omidyar is still a year away from registering eBay.com.
 
-1,700 miles away in Wichita, Kansas, tornado season has just ended, and a very different kind of company, founded in 1958 by Dan and Frank Carney, is putting the final touches on the launch one of the first eCommerce sites in Internet history. On Monday, August 22nd 1994, Pizza Hut and the Santa Cruz Operation issued a joint [press release](http://www.interesting-people.org/archives/interesting-people/199408/msg00057.html) announcing the launch of PizzaNet, “a pilot program that enables computer users, for the first time, to electronically order pizza delivery from their local Pizza Hut restaurant via the worldwide Internet.”
+1,700 miles away in Wichita, Kansas, tornado season has just ended, and a very different kind of company is putting the final touches on the launch one of the first eCommerce sites in Internet history. On Monday, August 22nd 1994, Pizza Hut and the Santa Cruz Operation issued a joint [press release](http://www.interesting-people.org/archives/interesting-people/199408/msg00057.html) announcing the launch of PizzaNet, “a pilot program that enables computer users, for the first time, to electronically order pizza delivery from their local Pizza Hut restaurant via the worldwide Internet.”
 
 As Bill Higgins of Fermilab [wrote](http://cu-digest.org/CUDS6/cud6.83) to the Computer Underground Digest, “History has been made.  Ordering pizza from your computer.  It's the fulfillment of a hacker dream at least as old as computer networking.”
 
 
-###Unusual innovators
+###Dough for cash
 It was a pivotal moment. For the first time a major corporation (Pizza Hut was owned by PepsiCo at the time) chose to use the web to sell directly to their customers. 
 
 The project was conceived by Jon Payne (of Pizza Hut) and Doug Michels of the Santa Cruz Operation. SCO was arguably the first commercial UNIX software company and the makers of SCO Unix, which was used at the time to run Pizza Hut's ordering systems. 
