@@ -1,24 +1,23 @@
 #Ecommerce in its infancy
 
-In the tech industry we spend a lot of time thinking about and attempting to mold the future. In Stripe's case that means we think not just about our day-to-day work of making online payments simple, but about the future economic activity on the Internet and how we can play a part in its growth. As you can probably imagine, there have been lots of heated discussions about Bitcoin at our company lunch hours.
+In the tech industry we spend a lot of time thinking about and attempting to mold the future. In Stripe's case that means we think not just about our day-to-day work of making online payments simple, but about the future of economic activity on the Internet and how we can play a part in its growth. As you can probably imagine, there have been lots of heated discussions about Bitcoin at our company lunches.
 
-The future of online commerce is certainly exciting, but looking back into its past can also be fascinating. Even though ecommerce has existed for less than 20 years, the details of some of its pioneers are already gathering virtual dust. As we did some digging, some interesting stories emerged:
+While commerce's future is undoubtedly exciting, looking back into its past can also be fascinating. Even though ecommerce has existed for less than 20 years, the details of some of its pioneers are already gathering virtual dust. Even the details on something as momentus as the first online transaction are a little hazy. We did some digging on the very early days of ecommerce, and some interesting stories emerged:
 
 ##The Pizzanet
 
-In August of 1994 the World Wide Web was barely 3 years old. Microsoft engineers had just begin writing the first lines of code for Internet Explorer 1.0. Jeff Bezos arrived in Seattle, fresh from a cross-country drive in an '88 Chevy Blazer. He'd just started work on the company that would later become Amazon.com. Further south, in Silicon Valley, Pierre Omidyar was still a year away from registering eBay.com.
+In August of 1994 the World Wide Web was barely 3 years old. Microsoft engineers had just begin writing the first lines of code for Internet Explorer 1.0. Jeff Bezos arrived in Seattl, and started work on the company that would later become Amazon. Further south, in Silicon Valley, Pierre Omidyar was still a year away from registering eBay.com.
 
-That same month, 1,700 miles east in Wichita, Kansas, a networking and security architect was occasionally taking cover in tornado bunkers while arguing with early tier-one ISPs about IP addresses, domain registrations, and routing. His name was Steph Marr was making final preparations for the launch of one the first eCommerce sites on the internet.
+That same month, 1,700 miles east, in Wichita, Kansas, a networking and security architect was occasionally taking cover in tornado bunkers as he made final preparations for the launch of one of the first ecCommerce sites on the Internet. Steph Marr, one of the Santa Cruz Operation's (SCO) engineers, remembers arguing with early tier-one ISPs about IP addresses, domain registrations, and routing in the final days before their launch date.
 
-On Monday, August 22nd 1994, Pizza Hut and the Santa Cruz Operation issue a joint [press release](http://www.interesting-people.org/archives/interesting-people/199408/msg00057.html) announcing the launch of PizzaNet, “a pilot program that enables computer users, for the first time, to electronically order pizza delivery from their local Pizza Hut restaurant via the worldwide Internet.”
+On Monday, August 22nd 1994, Pizza Hut and SCO issued a joint [press release](http://www.interesting-people.org/archives/interesting-people/199408/msg00057.html) announcing the launch of PizzaNet, “a pilot program that enables computer users, for the first time, to electronically order pizza delivery from their local Pizza Hut restaurant via the worldwide Internet.”
 
-As Bill Higgins of Fermilab [writes](http://cu-digest.org/CUDS6/cud6.83) to the Computer Underground Digest, “History has been made.  Ordering pizza from your computer.  It's the fulfillment of a hacker dream at least as old as computer networking.” 
-
+As Bill Higgins of Fermilab [wrote](http://cu-digest.org/CUDS6/cud6.83) to the Computer Underground Digest, “History has been made.  Ordering pizza from your computer.  It's the fulfillment of a hacker dream at least as old as computer networking.” 
 
 ###Dough for cash
-It was a pivotal moment in Internet history. For the first time a major corporation (Pizza Hut was owned by PepsiCo at the time) has launched a website  to sell directly to their customers.
+It was a pivotal moment in Internet history: for the first time a major corporation (Pizza Hut was owned by PepsiCo at the time) has launched a website  to sell their wares directly to customers.
 
-The PizzaNet was conceived by Jon Payne of Pizza Hut and Doug Michels of the Santa Cruz Operation (SCO). SCO was arguably the first commercial UNIX software company and the maintainers of SCO Unix, which was used at the time to run Pizza Hut's ordering systems. 
+The idea for PizzaNet was conceived by Jon Payne of Pizza Hut and Doug Michels of SCO. SCO was arguably the first commercial UNIX software company and the maintainers of SCO Unix, which was used at the time to run Pizza Hut's ordering systems. 
 
 That system was called PHOEBE - "The Pizza Hut Order Entry Back End." After the initial idea was discussed internally, SCO employees Phil Neuman and Steph Marr were assigned the task of building an HTML form flow for ordering. But for truly automated ordering they needed to integrate the PizzaNet website with PHOEBE. Once the ordering flow was complete, Steph Marr flew out to Wichita to coordinate the integration with Pizza Hut's Kurt Schmidt. 
 
@@ -46,7 +45,7 @@ The LA Times' article, entitled [On-Line Pizza Is Clever but Only Half-Baked](ht
 Amusingly, Domino's actually doing just that. Working with a company called EON Corp they were building a graphical UI for pizza ordering. As far as I was able to tell, that effort never saw the light of day.
 
 ###11 days earlier
-Pizza Hut and SCO were very close to making eCommerce history. Eleven days before the PR blast and one day before the first Pizza was delivered, a company called NetMarket made the first recorded  eCommerce transaction. At around noon of August 11th 1994, Phil Brandenberger of Philadelphia ordered the Sting album “Ten Summoner’s Tales” from NetMarket.com for $12.48, marking the first eCommerce transaction in Internet history. 
+Pizza Hut and SCO were very close to making Internet history. Eleven days before the PR blast and one day before the first Pizza was delivered, a company called NetMarket made the first recorded  ecommerce transaction. At around noon of August 11th 1994, Phil Brandenberger of Philadelphia ordered the Sting album “Ten Summoner’s Tales” from NetMarket.com for $12.48, marking the first ecommerce transaction in Internet history. 
 
 That transaction required some determination. NetMarket, founded by Daniel Kohn and Guy Fernald, had ported a version of ViaCrypt PGP for their servers, and published their public key. To make a purchase, Phil Brandenberger had to install PGP on his local Unix machine (Windows and Mac were not supported), compile X Mosaic using custom scripts that enabled PGP encryption, and then send his own public key to NetMarket.
 
@@ -59,8 +58,8 @@ Kohn claims that they had the earliest shopping-cart system on the web, and he d
 <p align="center"><img src="https://github.com/sinak/stripe-blog-posts/raw/master/1%20-%20images/netmarket-2.gif" /></p>
 <p align="center"><img src="https://github.com/sinak/stripe-blog-posts/raw/master/1%20-%20images/netmarket-1.gif" /></p>
 
-Kohn is now working on a new startup, [ShopMyLabel](http://shopmylabel.com), and when I called him to discuss NetMarket he happened to have the new [Stripe checkout](https://stripe.com/blog/stripe-checkout) open in a browser tab. He told me they're planning on using it for the next revision of ShopMyLabel. For one of the inventors of eCommerce and the first online shopping cart to be considering using our product is an honor to say the leasst.
+Kohn is now working on a new startup, [ShopMyLabel](http://shopmylabel.com), and when I called him to discuss NetMarket he happened to have the new [Stripe checkout](https://stripe.com/blog/stripe-checkout) open in a browser tab. He told me they're planning on using it for the next revision of ShopMyLabel. For one of the inventors of ecommerce and the first online shopping cart to be considering using our product is an honor to say the leasst.
 
 ###A developing story
 
-Pioneers like NetMarket, SCO, and Pizza Hut are in our recent past; it's less than two decades since the first eCommerce transactions were being made. The barriers to selling online have shrunk considerably, but we're still in the early days of online commerce. Twenty years from now, it's likely that Stripe Checkout will look as dated as the original NetMarket and PizzaNet. We're excited to be a part of that narrative, and eager to see what the next 20 years of online commerce have in store.
+Pioneers like NetMarket, SCO, and Pizza Hut are in our recent past; it's less than two decades since the first ecommerce transactions were being made. The barriers to selling online have shrunk considerably, but we're still in the early days of online commerce. Twenty years from now, it's likely that Stripe Checkout will look as dated as the original NetMarket and PizzaNet. We're excited to be a part of that narrative, and eager to see what the next 20 years of online commerce have in store.
