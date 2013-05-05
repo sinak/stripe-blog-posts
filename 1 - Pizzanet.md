@@ -1,14 +1,14 @@
 #Ecommerce in its infancy
 
-In the tech industry we spend a lot of time thinking about, predicting, and attempting to mold the future. In Stripe's case that means considering the future of online commerce, and how we can play a part in fostering the growth of economic activity on the Internet. 
+In the tech industry we spend a lot of time thinking about and attempting to mold the future. In Stripe's case that means we think not just about our day-to-day work of making online payments simple, but about the future economic activity on the Internet and how we can play a part in its growth. As you can probably imagine, there have been lots of heated discussions about Bitcoin at our company lunch hours.
 
-While the future of ecommerce is exciting to think about with the growth of Bitcoins and cryptocurrencies, looking back into the past can also be fascinating. Even though ecommerce has existed for less than 20 years, the details of some of its pioneers are already gathering virtual dust. As we did some digging, some interesting stories emerged:
+The future of online commerce is certainly exciting, but looking back into its past can also be fascinating. Even though ecommerce has existed for less than 20 years, the details of some of its pioneers are already gathering virtual dust. As we did some digging, some interesting stories emerged:
 
 ##The Pizzanet
 
-It's August of 1994, and the World Wide Web is barely 3 years old. Microsoft engineers have just begin writing the first lines of code for Internet Explorer 1.0. Jeff Bezos arrives in Seattle, fresh from his cross-country drive in an '88 Chevy Blazer. He's just started work on the company that'll become Amazon.com. Further south, in Silicon Valley, Pierre Omidyar is still a year away from registering eBay.com.
+In August of 1994 the World Wide Web was barely 3 years old. Microsoft engineers had just begin writing the first lines of code for Internet Explorer 1.0. Jeff Bezos arrived in Seattle, fresh from a cross-country drive in an '88 Chevy Blazer. He'd just started work on the company that would later become Amazon.com. Further south, in Silicon Valley, Pierre Omidyar was still a year away from registering eBay.com.
 
-1,700 miles away in Wichita, Kansas, an networking and security architect is in a tornado bunker, arguing with one of the early tier 1 ISPs about IP addresses, domain registrations, and routing. Steph Marr is making final preparations for the launch of one the first eCommerce sites on the internet.
+That same month, 1,700 miles east in Wichita, Kansas, a networking and security architect was occasionally taking cover in tornado bunkers while arguing with early tier-one ISPs about IP addresses, domain registrations, and routing. His name was Steph Marr was making final preparations for the launch of one the first eCommerce sites on the internet.
 
 On Monday, August 22nd 1994, Pizza Hut and the Santa Cruz Operation issue a joint [press release](http://www.interesting-people.org/archives/interesting-people/199408/msg00057.html) announcing the launch of PizzaNet, “a pilot program that enables computer users, for the first time, to electronically order pizza delivery from their local Pizza Hut restaurant via the worldwide Internet.”
 
