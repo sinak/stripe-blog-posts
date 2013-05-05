@@ -15,7 +15,7 @@ On Monday, August 22nd 1994, Pizza Hut and SCO issued a joint [press release](ht
 As Bill Higgins of Fermilab [wrote](http://cu-digest.org/CUDS6/cud6.83) to the Computer Underground Digest, “History has been made.  Ordering pizza from your computer.  It's the fulfillment of a hacker dream at least as old as computer networking.” 
 
 ###Dough for cash
-It was a pivotal moment in Internet history: for the first time a major corporation (Pizza Hut was owned by PepsiCo at the time) has launched a website  to sell their wares directly to customers.
+It was a pivotal moment in Internet history: for the first time a major corporation (Pizza Hut was owned by PepsiCo at the time) launched a website  to sell their wares directly to customers.
 
 The idea for PizzaNet was conceived by Jon Payne of Pizza Hut and Doug Michels of SCO. SCO was arguably the first commercial UNIX software company and the maintainers of SCO Unix, which was used at the time to run Pizza Hut's ordering systems. 
 
@@ -47,7 +47,7 @@ Amusingly, Domino's actually doing just that. Working with a company called EON 
 ###11 days earlier
 Pizza Hut and SCO were very close to making Internet history. Eleven days before the PR blast and one day before the first Pizza was delivered, a company called NetMarket made the first recorded  ecommerce transaction. At around noon of August 11th 1994, Phil Brandenberger of Philadelphia ordered the Sting album “Ten Summoner’s Tales” from NetMarket.com for $12.48, marking the first ecommerce transaction in Internet history. 
 
-That transaction required some determination. NetMarket, founded by Daniel Kohn and Guy Fernald, had ported a version of ViaCrypt PGP for their servers, and published their public key. To make a purchase, Phil Brandenberger had to install PGP on his local Unix machine (Windows and Mac were not supported), compile X Mosaic using custom scripts that enabled PGP encryption, and then send his own public key to NetMarket.
+That transaction required some determination. NetMarket, founded by Daniel Kohn and Guy Fernald, had ported a version of ViaCrypt PGP for their servers, and published their public key on their website. To make a purchase, Phil Brandenberger had to install PGP on his local Unix machine (Windows and Mac were not supported), compile X Mosaic using custom scripts that enabled PGP encryption, and then send his own public key to NetMarket.
 
 NetMarket was founded by Swathmore and LSE graduates working out of a house in New Hampshire, with the typical student-entrepreneur setup: bedrooms upstairs, and the broadband line and office downstairs. Kohn remembers those times affectionately. 
 
