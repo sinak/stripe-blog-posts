@@ -1,4 +1,10 @@
-#The PizzaNet
+#Ecommerce in its infancy
+
+In the tech industry we spend a lot of time thinking about, predicting, and attempting to mold the future. In Stripe's case that means considering the future of online commerce, and how we can play a part in fostering the growth of economic activity on the Internet. 
+
+While the future of ecommerce is exciting to think about with the growth of Bitcoins and cryptocurrencies, looking back into the past can also be fascinating. Even though ecommerce has existed for less than 20 years, the details of some of its pioneers are already gathering virtual dust. As we did some digging, some interesting stories emerged:
+
+##The Pizzanet
 
 It's August of 1994, and the World Wide Web is barely 3 years old. Microsoft engineers have just begin writing the first lines of code for Internet Explorer 1.0. Jeff Bezos arrives in Seattle, fresh from his cross-country drive in an '88 Chevy Blazer. He's just started work on the company that'll become Amazon.com. Further south, in Silicon Valley, Pierre Omidyar is still a year away from registering eBay.com.
 
